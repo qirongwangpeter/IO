@@ -1,0 +1,10 @@
+Hi, today is 23th of December, 2025. I just arrived in China from the US. I parked my car in my uncle's home in Tyngsboro, MA, and went back China for winter break.
+My uncle's son became a tutor at UMass Lowell last year and is currently conducting research on chemistry and biology. He gave me some guides on selcting my career based on my interests.
+This file is created to test the codes for file-reading.
+Merry Christmas!
+010010000111010010000111
+100110111001101111100101
+011011010010100110010101
+111101110101011111101101
+000011000000101001000010
+100101010010101010010101
